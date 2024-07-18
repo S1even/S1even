@@ -5,9 +5,9 @@
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=s1even&label=Profile%20views&color=0e75b6&style=flat" alt="s1even" /> </p>
 
-- 📫 How to reach me **stevendevin16@gmail.com**
+📫 How to reach me **stevendevin16@gmail.com**
 
-- ⚡ Fun fact **I spent 2 and a half hours for something I forgot ;**
+⚡ Fun fact **I spent 2 and a half hours for something I forgot ;**
 
 <h3 align="center">Connect with me:</h3>
 <p align="center">
