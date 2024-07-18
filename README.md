@@ -1,9 +1,9 @@
 <h1 align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=7618F7&width=435&lines=Hello+everyone%2C+;I'm+Steven" alt="Typing SVG"/>
+	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=1000&color=7618F7&width=435&lines=Hello+everyone%2C+;I'm+Steven" alt="Typing SVG"/>
 </h1>
 <h3 align="center">A student developer from France</h3>
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=s1even&label=Profile%20views&color=0e75b6&style=flat" alt="s1even" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=s1even&label=Profile%20views&color=0e75b6&style=flat" alt="s1even" /> </p>
 
 - 📫 How to reach me **stevendevin16@gmail.com**
 
