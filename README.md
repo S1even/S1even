@@ -1,4 +1,4 @@
-![images (1)](https://github.com/user-attachments/assets/f86c3d3c-c4a8-4774-a945-78c6adbbec76)
+![images (1)](https://github.com/user-attachments/assets/d20fe9ad-c2de-4a02-93a7-a771fdd907d3)
 <h1 align="center">
 	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=1000&color=36BCF7FF&width=435&lines=Hello+everyone%2C+;I'm+Steven" alt="Typing SVG"/>
 </h1>
