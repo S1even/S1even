@@ -1,6 +1,6 @@
-![images (1)](https://github.com/user-attachments/assets/9364c6ef-41e1-4e04-a4b0-4660cddd9819)
+![images (1)](https://github.com/user-attachments/assets/f86c3d3c-c4a8-4774-a945-78c6adbbec76)
 <h1 align="center">
-	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=1000&color=7618F7&width=435&lines=Hello+everyone%2C+;I'm+Steven" alt="Typing SVG"/>
+	<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=900&size=25&pause=1000&color=36BCF7FF&width=435&lines=Hello+everyone%2C+;I'm+Steven" alt="Typing SVG"/>
 </h1>
 <h3 align="center">A student developer from France</h3>
 
