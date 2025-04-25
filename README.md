@@ -28,7 +28,7 @@
 
 <h2 align="center">Tools & Platforms</h2>
 <p align="center">
-  <img src="https://cdn.simpleicons.org/github" alt="GitHub Logo" width="50" />
+  <img src="https://cdn.simpleicons.org/github/FFFFFF" alt="GitHub Logo" width="50" />
   <img src="https://cdn.simpleicons.org/figma" alt="Figma Logo" width="50" />
 </p>
 
